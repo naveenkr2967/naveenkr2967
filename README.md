@@ -231,7 +231,7 @@ A responsive weather application designed to provide weather information through
 
 📅 **2023 – 2027**
 
-📊 **CGPA: 6.5 / 10**
+📊 **CGPA: 7.0 / 10**
 
 📍 Greater Noida, Uttar Pradesh
 
